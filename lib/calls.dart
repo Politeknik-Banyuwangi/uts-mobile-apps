@@ -14,20 +14,7 @@ class Calls extends StatelessWidget {
           _.disallowGlow();
           return true;
         },
-        child: ListView(
-          children: [
-            SizedBox(
-              height: 10,
-            ),
-
-            // Masukkan Coding disini jangan rubah lainnya
-            //
-            //
-            //
-            //
-            //
-            //
-          ],
+       
         ),
       ),
       floatingActionButton: Column(
