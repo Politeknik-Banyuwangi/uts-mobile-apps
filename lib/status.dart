@@ -83,11 +83,11 @@ class Status extends StatelessWidget {
             SizedBox(
               height: 10,
             ),
-            getStory("Ola Ali", "Just now"),
-            getStory("Ahmed Gmal", "Today, 2:8 pm"),
-            getStory("Ahmed salah", "6 minutes ago"),
-            getStory("Aya fares", "25 minutes ago"),
-            getStory("Rana Gamal", "Yestrday, 8:45 pm"),
+            getStory("Sasuke", "Just now"),
+            getStory("Ronaldo", "Today, 2:8 pm"),
+            getStory("Moh salah", "6 minutes ago"),
+            getStory("Rossi", "25 minutes ago"),
+            getStory("Torres", "Yestrday, 8:45 pm"),
             getStory("Omar Hassan", "Yestrday, 5:5 Am"),
             SizedBox(
               height: 10,
