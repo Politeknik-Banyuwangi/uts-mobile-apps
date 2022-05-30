@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
-// import 'package:ui_whatsapp/calls.dart';
+import 'package:ui_whatsapp/calls.dart';
 import 'package:ui_whatsapp/status.dart';
 
 import 'chats.dart';
@@ -66,7 +66,7 @@ class _HomePageState extends State<HomePage> {
             Camera(),
             Chats(),
             Status(),
-            // Calls(),
+            Calls(),
           ],
         ),
       ),
